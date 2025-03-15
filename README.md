@@ -1,31 +1,37 @@
 ## chiakicodes
 
-> "man is the only creature who refuses to be what he is." - camus
+**Philosopher | Programmer | Minimalist**
+
+> "Man is the only creature who refuses to be what he is." - Camus
 
 
-### about me
-- my data belongs to no one but me.
-- i optimize tools, not the ideologies behind them.
-- function > ornamentation
+### About Me
+- My data belongs to no one but me.
+- I optimize tools, not the ideologies behind them.
+- Function > Ornamentation
 
-### system and workflow
-- os: arch linux (riced i3wm, fully optimized for efficiency and privacy)
-- device: hardened google pixel 7a (de-googled, privacy-maximized)
-- editor: neovim (lightweight, fast, and customized for peak performance)
-- keyboard-driven, distraction-free, and productivity-maximized
+### System and Workflow
+- OS: Arch Linux (riced i3wm, fully optimized for efficiency and privacy)
+- Device: Hardened Google Pixel 7a (de-Googled, privacy-maximized)
+- Editor: Neovim (lightweight, fast, and customized for peak performance)
+- Keyboard-driven, distraction-free, and productivity-maximized
 
-### tech stack
-- languages: python, bash, c
-- tools: neovim, tmux, fzf, ripgrep, git, curl
-- keep it lean, fast, and under control.
+### Tech Stack
+- Languages: Python, C, JavaScript, SQL
+- Web Development: HTML, CSS, JavaScript, React, Node.js
+- Tools: Neovim, tmux, fzf, ripgrep, git, curl
 
-### interests
-- reading: philosophy, psychology, cybernetics, and the mechanics of power
-- music: existental, melancholic, electronic, and avant-garde
-- films: psychological thrillers, avant-garde horror, dystopian fiction
-- researching: fringe theories, obscure historical events, subversive literature
-- gaming: tactical shooters, immersive RPGs, and subversive narratives
+### Interests
+- Reading: Philosophy, Psychology, Cybernetics, and the Mechanics of Power
+- Music: Existental, Melancholic, Electronic, and Avant-garde
+- Films: Psychological Thrillers, Avant-garde Horror, Dystopian fiction
+- Gaming: Tactical Shooters, Immersive RPGs, and Subversive Narratives
 
-### contact
-- public pgp key: available upon request
-- encrypted email only | if you need to reach me, you know how.
+### Contact
+- Public PGP Key: Available upon request
+- Email: Also available upon request
+
+
+Feel free to browse my repositories.
+
+---
