@@ -27,5 +27,5 @@
 - gaming: tactical shooters, immersive RPGs, and subversive narratives
 
 ### contact
-public pgp key: available upon request
-encrypted email only | if you need to reach me, you know how.
+- public pgp key: available upon request
+- encrypted email only | if you need to reach me, you know how.
